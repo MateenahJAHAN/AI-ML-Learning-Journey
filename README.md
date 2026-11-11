@@ -21,3 +21,11 @@ Every concept I learn — I save here with simple explanations.
 
 ---
 *Learning every day — Mateenah Jahan*
+
+<!-- portfolio-navigation -->
+## Repository guide
+
+- **Documentation and notes** · [.gitkeep](notes/.gitkeep)
+
+<!-- /portfolio-navigation -->
+
